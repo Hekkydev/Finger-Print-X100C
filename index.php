@@ -65,7 +65,8 @@ if($IP!=""){
     }
 } 
 
+//$sendCurl = CurlSendData($buffer);
 
- echo "<pre>";
- print_r($buffer);	
-print_r($attendance);		
+echo "<pre>";
+print_r($buffer);	
+print_r($attendance);	
